@@ -1,7 +1,7 @@
 <?php define('BASEPATH', "localhost");
 require_once("autoload.php");
 
-$product_m = new ProductModel();
+$contact_m = new ContactctModel();
 
 $errors = [];
 $messages = [];
